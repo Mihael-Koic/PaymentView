@@ -1,7 +1,7 @@
 # PaymentView
 PaymentView SwiftUI
 
-<img src="Simulator.png" alt="Opis slike" width="200"/>
+<img src="Simulator.png" alt="Opis slike" width="250"/>
 
 Dobrodošli u moj projekt! Ovdje možete pronaći detalje o funkcionalnostima i kako ga koristiti.
 
