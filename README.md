@@ -15,7 +15,7 @@ Ovaj projekt je zamišljen kao aplikacija za placanje i koristenje s Apple Store
 
 ## Slika
 
-<img src="Simulator" alt="Opis slike" width="400"/>
+<img src="Simulator.png" alt="Opis slike" width="400"/>
 
 Ovdje možete opisati što slika prikazuje.
 
