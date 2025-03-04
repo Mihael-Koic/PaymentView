@@ -19,4 +19,4 @@ Ovdje možete opisati što slika prikazuje.
 
 ## Licence
 
-Ovaj projekt koristi [Mihael Koic](LICENSE).
+Ovaj projekt koristi [Mihael-Koic](LICENSE).
