@@ -19,4 +19,4 @@ Ovdje možete opisati što slika prikazuje.
 
 ## Licence
 
-Ovaj projekt koristi <a [href="https://www.w3schools.com](https://github.com/Mihael-Koic)">Mihael Koic</a>.
+Ovaj projekt koristi <a href="https://github.com/Mihael-Koic">Mihael Koic</a>.
