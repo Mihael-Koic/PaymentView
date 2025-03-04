@@ -15,7 +15,7 @@ Ovaj projekt je zamišljen kao aplikacija za placanje i koristenje s Apple Store
 
 ## Slika
 
-<img src="[putanja_do_slike.png](https://github.com/user-attachments/assets/4837ab6c-ee96-4bf7-9d6b-7612d358ea19)" alt="Opis slike" width="400"/>
+<img src="Simulator" alt="Opis slike" width="400"/>
 
 Ovdje možete opisati što slika prikazuje.
 
