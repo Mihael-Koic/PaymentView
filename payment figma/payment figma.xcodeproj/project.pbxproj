@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		FDCA4E322D77174B00CA01A3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FDCA4E192D77174A00CA01A3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FDCA4E202D77174A00CA01A3;
+			remoteInfo = "payment figma";
+		};
+		FDCA4E3C2D77174B00CA01A3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FDCA4E192D77174A00CA01A3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FDCA4E202D77174A00CA01A3;
+			remoteInfo = "payment figma";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FDCA4E212D77174A00CA01A3 /* payment figma.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "payment figma.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDCA4E312D77174B00CA01A3 /* payment figmaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "payment figmaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDCA4E3B2D77174B00CA01A3 /* payment figmaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "payment figmaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		FDCA4E232D77174A00CA01A3 /* payment figma */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "payment figma";
+			sourceTree = "<group>";
+		};
+		FDCA4E342D77174B00CA01A3 /* payment figmaTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "payment figmaTests";
+			sourceTree = "<group>";
+		};
+		FDCA4E3E2D77174B00CA01A3 /* payment figmaUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "payment figmaUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FDCA4E1E2D77174A00CA01A3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDCA4E2E2D77174B00CA01A3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDCA4E382D77174B00CA01A3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FDCA4E182D77174A00CA01A3 = {
+			isa = PBXGroup;
+			children = (
+				FDCA4E232D77174A00CA01A3 /* payment figma */,
+				FDCA4E342D77174B00CA01A3 /* payment figmaTests */,
+				FDCA4E3E2D77174B00CA01A3 /* payment figmaUITests */,
+				FDCA4E222D77174A00CA01A3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FDCA4E222D77174A00CA01A3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FDCA4E212D77174A00CA01A3 /* payment figma.app */,
+				FDCA4E312D77174B00CA01A3 /* payment figmaTests.xctest */,
+				FDCA4E3B2D77174B00CA01A3 /* payment figmaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FDCA4E202D77174A00CA01A3 /* payment figma */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FDCA4E452D77174B00CA01A3 /* Build configuration list for PBXNativeTarget "payment figma" */;
+			buildPhases = (
+				FDCA4E1D2D77174A00CA01A3 /* Sources */,
+				FDCA4E1E2D77174A00CA01A3 /* Frameworks */,
+				FDCA4E1F2D77174A00CA01A3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				FDCA4E232D77174A00CA01A3 /* payment figma */,
+			);
+			name = "payment figma";
+			packageProductDependencies = (
+			);
+			productName = "payment figma";
+			productReference = FDCA4E212D77174A00CA01A3 /* payment figma.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FDCA4E302D77174B00CA01A3 /* payment figmaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FDCA4E482D77174B00CA01A3 /* Build configuration list for PBXNativeTarget "payment figmaTests" */;
+			buildPhases = (
+				FDCA4E2D2D77174B00CA01A3 /* Sources */,
+				FDCA4E2E2D77174B00CA01A3 /* Frameworks */,
+				FDCA4E2F2D77174B00CA01A3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FDCA4E332D77174B00CA01A3 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FDCA4E342D77174B00CA01A3 /* payment figmaTests */,
+			);
+			name = "payment figmaTests";
+			packageProductDependencies = (
+			);
+			productName = "payment figmaTests";
+			productReference = FDCA4E312D77174B00CA01A3 /* payment figmaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FDCA4E3A2D77174B00CA01A3 /* payment figmaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FDCA4E4B2D77174B00CA01A3 /* Build configuration list for PBXNativeTarget "payment figmaUITests" */;
+			buildPhases = (
+				FDCA4E372D77174B00CA01A3 /* Sources */,
+				FDCA4E382D77174B00CA01A3 /* Frameworks */,
+				FDCA4E392D77174B00CA01A3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FDCA4E3D2D77174B00CA01A3 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FDCA4E3E2D77174B00CA01A3 /* payment figmaUITests */,
+			);
+			name = "payment figmaUITests";
+			packageProductDependencies = (
+			);
+			productName = "payment figmaUITests";
+			productReference = FDCA4E3B2D77174B00CA01A3 /* payment figmaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FDCA4E192D77174A00CA01A3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					FDCA4E202D77174A00CA01A3 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					FDCA4E302D77174B00CA01A3 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = FDCA4E202D77174A00CA01A3;
+					};
+					FDCA4E3A2D77174B00CA01A3 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = FDCA4E202D77174A00CA01A3;
+					};
+				};
+			};
+			buildConfigurationList = FDCA4E1C2D77174A00CA01A3 /* Build configuration list for PBXProject "payment figma" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FDCA4E182D77174A00CA01A3;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FDCA4E222D77174A00CA01A3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FDCA4E202D77174A00CA01A3 /* payment figma */,
+				FDCA4E302D77174B00CA01A3 /* payment figmaTests */,
+				FDCA4E3A2D77174B00CA01A3 /* payment figmaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FDCA4E1F2D77174A00CA01A3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDCA4E2F2D77174B00CA01A3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDCA4E392D77174B00CA01A3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FDCA4E1D2D77174A00CA01A3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDCA4E2D2D77174B00CA01A3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FDCA4E372D77174B00CA01A3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FDCA4E332D77174B00CA01A3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FDCA4E202D77174A00CA01A3 /* payment figma */;
+			targetProxy = FDCA4E322D77174B00CA01A3 /* PBXContainerItemProxy */;
+		};
+		FDCA4E3D2D77174B00CA01A3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FDCA4E202D77174A00CA01A3 /* payment figma */;
+			targetProxy = FDCA4E3C2D77174B00CA01A3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FDCA4E432D77174B00CA01A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FDCA4E442D77174B00CA01A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FDCA4E462D77174B00CA01A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"payment figma/Preview Content\"";
+				DEVELOPMENT_TEAM = 6DJ8U75L57;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihael.koic.payment-figma";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FDCA4E472D77174B00CA01A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"payment figma/Preview Content\"";
+				DEVELOPMENT_TEAM = 6DJ8U75L57;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihael.koic.payment-figma";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FDCA4E492D77174B00CA01A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6DJ8U75L57;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihael.koic.payment-figmaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/payment figma.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/payment figma";
+			};
+			name = Debug;
+		};
+		FDCA4E4A2D77174B00CA01A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6DJ8U75L57;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihael.koic.payment-figmaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/payment figma.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/payment figma";
+			};
+			name = Release;
+		};
+		FDCA4E4C2D77174B00CA01A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6DJ8U75L57;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihael.koic.payment-figmaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "payment figma";
+			};
+			name = Debug;
+		};
+		FDCA4E4D2D77174B00CA01A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6DJ8U75L57;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihael.koic.payment-figmaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "payment figma";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FDCA4E1C2D77174A00CA01A3 /* Build configuration list for PBXProject "payment figma" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDCA4E432D77174B00CA01A3 /* Debug */,
+				FDCA4E442D77174B00CA01A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FDCA4E452D77174B00CA01A3 /* Build configuration list for PBXNativeTarget "payment figma" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDCA4E462D77174B00CA01A3 /* Debug */,
+				FDCA4E472D77174B00CA01A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FDCA4E482D77174B00CA01A3 /* Build configuration list for PBXNativeTarget "payment figmaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDCA4E492D77174B00CA01A3 /* Debug */,
+				FDCA4E4A2D77174B00CA01A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FDCA4E4B2D77174B00CA01A3 /* Build configuration list for PBXNativeTarget "payment figmaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDCA4E4C2D77174B00CA01A3 /* Debug */,
+				FDCA4E4D2D77174B00CA01A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FDCA4E192D77174A00CA01A3 /* Project object */;
+}
