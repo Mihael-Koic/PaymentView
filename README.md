@@ -1,3 +1,24 @@
 # PaymentView
 PaymentView SwiftUI
-![Simulator Screenshot - iPhone 16 - 2025-03-04 at 18 36 25](https://github.com/user-attachments/assets/d2fc3ff8-5719-4701-857e-b2dabaafbf72)
+
+Dobrodošli u moj projekt! Ovdje možete pronaći detalje o funkcionalnostima i kako ga koristiti.
+
+## Opis
+
+Ovaj projekt je zamišljen kao aplikacija za placanje i koristenje s Apple StoreKit?
+
+## Kako koristiti
+
+1. Preuzmite projekt s GitHub-a.
+2. Uredite prema zalji. 
+3. Pokrenite aplikaciju.
+
+## Slika
+
+<img src="[putanja_do_slike.png](https://github.com/user-attachments/assets/4837ab6c-ee96-4bf7-9d6b-7612d358ea19)" alt="Opis slike" width="400"/>
+
+Ovdje možete opisati što slika prikazuje.
+
+## Licence
+
+Ovaj projekt koristi [Mihael Koic](LICENSE).
