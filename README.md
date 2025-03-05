@@ -19,7 +19,9 @@ Ovdje možete opisati što slika prikazuje.
 
 ## Licence
 
-Ovaj projekt koristi <a href="https://github.com/Mihael-Koic">Mihael Koic</a>.
+Ovaj projekt koristi <a href="https://github.com/Mihael-Koic">Mihael Koic</a>. 
+
+
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
